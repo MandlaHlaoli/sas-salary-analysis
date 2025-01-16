@@ -1,7 +1,5 @@
 # **SAS Salary Analysis Project** 🎓💼
 
-Welcome to the **SAS Salary Analysis Project**! This project explores employee salary data using SAS procedures such as `PROC SQL` and `PROC MEANS` to gain insights into salary distributions and identify the top performers.
-
 ---
 
 ## **Project Overview** 📊
